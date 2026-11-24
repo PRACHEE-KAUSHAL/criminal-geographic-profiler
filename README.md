@@ -1,10 +1,6 @@
 # 📍 Criminal Geographic & Behavioral Profiler
 ### Spatial Clustering and Behavioral Hotspot Analysis Using Unsupervised ML
 
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-DBSCAN%20%2F%20K--Means-FF6F00?style=flat)
-![Geospatial](https://img.shields.io/badge/Folium-Spatial%20Mapping-77B829?style=flat)
-
 ---
 
 ## 🔍 Investigation Overview
@@ -29,4 +25,17 @@ This project translates **qualitative behavioral profiling principles** into an 
 
 ---
 
-## 📊 Methodology & Analytical Pipeline
+## 💡 Key Behavioral Insights
+- **Density Over Dispersal:** While general property crime disperses across commercial corridors, severe offenses exhibit tight clustering within a 0.8 km operational radius.
+- **The "Awareness Space" Signature:** Repeat behavioral patterns peak during transition hours (18:00–22:00), reflecting offender familiarity with localized foot-traffic patterns.
+
+---
+
+## 🏢 Enterprise Application
+The algorithms used to model criminal geographic behavior translate directly to enterprise risk and commercial analytics:
+- **Financial Fraud Analytics:** Detecting clustered coordinated fraud attacks across merchant locations or IP subnets.
+- **Cybersecurity & Threat Intel:** Geospatial and network anomaly detection for unauthorized intrusion attempts.
+- **Supply Chain Logistics:** Route risk scoring and predictive asset protection.
+
+---
+**Author:** [Prachi Kaushal](https://www.linkedin.com/in/prachi-kaushal-63a395231/) | Data Analyst & Behavioral Risk Modeler
